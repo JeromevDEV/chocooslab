@@ -20,8 +20,8 @@ export default function Home({ githubProfileData }) {
 			<SEO
 				data={{
 					title: "Chocoo's Lab",
-					// description: "The guy you didn't know you needed",
-					// image: "https://imgur.com/a/Qjzxsie",
+					description: "Enter the Lab...",
+					image: "https://imgur.com/a/Qjzxsie",
 					url: "https://chocooslab.vercel.app/",
 					keywords: [
 						"Portfolio",

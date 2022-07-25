@@ -5,7 +5,7 @@ export const greetings = {
 	title: "Hi all, I'm ChocooPanda / ChocooCrypto / RedAngelD",
 	description:
 		"I'm passionate web developer having an experience of web applications with React.js, Vue.js, Next.js and Blockchain development on Web3.js and Solana. I'm" +
-		" also a Collab Manager, WL Hunter and a Copywritter, wich means I can easily help you to get some WL spots for your community and some attractive Twitter posts." +
+		" also a Collab Manager, WL Hunter and a Copywriter, which means I can easily help you to get some WL spots for your community and some attractive Twitter posts." +
 		" I recently learned how to create and setup Discord servers for NFT projects, with all the bots and security needed.",
 	resumeLink:
 		"",

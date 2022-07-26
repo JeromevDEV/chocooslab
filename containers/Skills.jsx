@@ -10,7 +10,7 @@ const Skills = () => {
         <Container className="text-center my-5 section section-lg">
             <h1 className="h1 text-dark">
                 <div className="icon icon-lg icon-shape bg-gradient-white shadow rounded-circle text-info" style={{marginRight:"15px"}}>
-                    <i className="ni ni-briefcase-24 text-dark"/>
+                    <i className="ni ni-delivery-fast text-dark"/>
                 </div>
                  {skillsSection.title}</h1>
             <p className="lead">{skillsSection.subTitle}</p>

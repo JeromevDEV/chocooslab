@@ -297,5 +297,13 @@ export const feedbacks = [
 			"ChocooPanda joined us as a MOD before our mint phase. He ensured our chat was active with some fun games like Smash Kart, Trivia or Lolbeans. He provided some " +
 			"outbreaking ideas after the mint phase to ensure activity in our community. I'd recommend ChocooPanda to any project in need of a MOD !",
 		pfp: "/img/icons/common/akaba.png",
+	},
+	{
+		name: "DegenSamurai (Coinable)",
+		twitter: "https://twitter.com/degen_samurai",
+		feedback:
+			"I hired ChocooPanda in order to create a new banner for my Twitter. I scheduled a quick call with him in order to define my needs. He then quickly worked on the first 3 drafts."+
+			"He clearly found what I wanted and we agreed on the final solution. I love the result and would recommend ChocooPanda for any banner requests !",
+		pfp: "/img/icons/common/degensamurai.png",
 	}
 ];
